@@ -1,0 +1,1 @@
+Perl module to obtain copy of Patent grant, patent application, or patent publication from WWW- e.g. USPTO, ESP@CENET (ESPACE, ESPACENET), MICROPATENT, JPDO, etc.
